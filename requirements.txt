@@ -1,0 +1,13 @@
+aiohttp
+aiohttp_socks
+pyrogram
+tgcrypto
+multivolumefile
+py7zr
+bs4
+requests_toolbelt
+yarl
+yt_dlp
+aiofiles
+aiogram
+executor
