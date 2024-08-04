@@ -1,3 +1,3 @@
-api_id = 11019113
-api_hash = "2805b274bdf7842045f7bb212c024abb" #Esto se obtenien en mytelegramorg
-token = "7310109099:AAFmFJ-MqduqMsDomgGCNBsLZx_uTrB55Z0" #Crea token del bot en botfhater
+api_id = 10181262
+api_hash = "f52b5a057b73b9974eaa7403e04907f0" #Esto se obtenien en mytelegramorg
+token = "5887442268:AAG-lcurssR91PbCoh-8-oY7coveUdIz8po" #Crea token del bot en botfhater
